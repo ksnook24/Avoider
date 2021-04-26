@@ -11093,6 +11093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
+  increaseSpeed: 2
 --- !u!114 &1310780116
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18816,7 +18817,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6483287863053334734, guid: 252ddb23fd8680f4cbdb6d7307e40bd0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.1696
+      value: 2.38
       objectReference: {fileID: 0}
     - target: {fileID: 6483287863053334734, guid: 252ddb23fd8680f4cbdb6d7307e40bd0, type: 3}
       propertyPath: m_LocalPosition.y
