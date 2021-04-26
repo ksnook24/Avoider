@@ -14,7 +14,6 @@ public class Game_Manager : MonoBehaviour
         if (gameHasEnded == false)
         {
             gameHasEnded = true;
-            Debug.Log("GameOver");
             SceneManager.LoadScene("GameOver");
         
         }
